@@ -1,0 +1,3 @@
+etc/default/minio/
+mnt/data/compose/
+.env
